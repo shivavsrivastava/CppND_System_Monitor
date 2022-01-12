@@ -1,0 +1,9 @@
+/usr/bin/make -f /home/shiva/Projects/UDACITY_ND/CPP/CAPSTONE/GAME_PROJECT/SUDOKU/CAPSTONE/Capstone_Cpp_ND_Sudoku/build/Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/shiva/Projects/UDACITY_ND/CPP/SYSTEM_MONITOR_PROJECT/CppND-System-Monitor-Project-Updated'
+make: Leaving directory '/home/shiva/Projects/UDACITY_ND/CPP/SYSTEM_MONITOR_PROJECT/CppND-System-Monitor-Project-Updated'
+ 
+make: /home/shiva/Projects/UDACITY_ND/CPP/CAPSTONE/GAME_PROJECT/SUDOKU/CAPSTONE/Capstone_Cpp_ND_Sudoku/build/Makefile: No such file or directory
+make: *** No rule to make target '/home/shiva/Projects/UDACITY_ND/CPP/CAPSTONE/GAME_PROJECT/SUDOKU/CAPSTONE/Capstone_Cpp_ND_Sudoku/build/Makefile'.
+make: Failed to remake makefile '/home/shiva/Projects/UDACITY_ND/CPP/CAPSTONE/GAME_PROJECT/SUDOKU/CAPSTONE/Capstone_Cpp_ND_Sudoku/build/Makefile'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
